@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Dell",
-  "license": "MIT",
+  "license": "MIT",// 完全开源的协议
   "dependencies": {
     "lodash": "^4.17.11",
     "webpack": "^4.27.1",
